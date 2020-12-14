@@ -1,0 +1,17 @@
+1. Definitions
+
+    a. Variables
+    b. Strings
+    c. Funciones (argumentos, return)
+    d. Declaraciones if
+    e. Valores booleanos (true, false)
+
+a. Variables:
+
+b. Strings:
+
+c. Funciones (argumentos, reutrn):
+
+d. Declaraciones if:
+
+e. Valores booleanos (true, false):
