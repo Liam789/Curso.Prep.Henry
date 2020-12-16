@@ -6,12 +6,15 @@
     d. Declaraciones if
     e. Valores booleanos (true, false)
 
-a. Variables: las variables son una forma de retener o almacenar el valor de algo para poder usarlo más tarde.
+a. Variables: las variables son una forma de retener o almacenar el valor de algo para poder
+usarlo más tarde.
 
-b. Strings: una "string" o cadena es un tipo de dato. Consiste en bloques de texto que siempre se colocarán entre comillas (simples o dobles).
+b. Strings: una "string" o cadena es un tipo de dato. Consiste en bloques de texto que siempre
+se colocarán entre comillas (simples o dobles).
 
 c. Funciones (argumentos, reutrn): 
 
 d. Declaraciones if:
 
-e. Valores booleanos (true, false): los valores booleanos son otro tipo de datos, que deriva del código binario (o 1), representando básicamente los conceptos de Verdadero o Falso (True or False).
+e. Valores booleanos (true, false): los valores booleanos son otro tipo de datos, que deriva del
+código binario (o 1), representando básicamente los conceptos de Verdadero o Falso (True or False).
