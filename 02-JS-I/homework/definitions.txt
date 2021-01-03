@@ -12,9 +12,17 @@ usarlo más tarde.
 b. Strings: una "string" o cadena es un tipo de dato. Consiste en bloques de texto que siempre
 se colocarán entre comillas (simples o dobles).
 
-c. Funciones (argumentos, reutrn): 
+c. Funciones (argumentos, reutrn): en la programación, las funciones son un tipo de objetos muy
+importantes llamados 'callable objects', es decir objetos invocables o llamables. Las funciones
+nos permiten trabajar y hacer diferentes acciones con variables preestablecidas.
+Los argumentos son los elementos que incluiremos dentro de la función (entre paréntesis, después
+del nombre de la función). Podemos agregar más de un argumento separados por comas.
+El comando 'return' (retorno) detiene lo que sea que esté haciendo la función y le solicita que
+devuelva algún valor de la función especificado.
 
-d. Declaraciones if:
+d. Declaraciones if: la palabra 'if' es un control de flujo  y comparación. Con esta palabra
+clave podemos solicitar que se verifique en nuestra función si algo es 'true', y ejecutar el
+código suministrado en caso de serlo, o bien avanzar (en caso de ser 'false').
 
 e. Valores booleanos (true, false): los valores booleanos son otro tipo de datos, que deriva del
 código binario (o 1), representando básicamente los conceptos de Verdadero o Falso (True or False).
