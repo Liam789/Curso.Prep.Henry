@@ -1,9 +1,7 @@
 Definitions 03-JS-II
 
-a. for
-b. &&, ||, !
-
----
+    a. for
+    b. &&, ||, !
 
 a. for:
 
