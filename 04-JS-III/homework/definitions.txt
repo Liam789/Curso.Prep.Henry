@@ -1,0 +1,3 @@
+JS-III - Definitions
+
+a. Arrays: 
