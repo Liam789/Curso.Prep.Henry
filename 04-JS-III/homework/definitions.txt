@@ -1,3 +1,5 @@
 JS-III - Definitions
 
-a. Arrays: 
+a. Arrays: un array (o 'arreglo') es una lista de elementos con la que podemos trabajar, y que
+se define entre corchetes (brackets). Puede incluir cualquier tipo de datos (números, strings,
+booleanos, null, undefined, funciones o incluso otros areglos).
