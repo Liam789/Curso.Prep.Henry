@@ -1,8 +1,21 @@
 Definitions 03-JS-II
 
-    a. for
-    b. &&, ||, !
+    a. Bucles for
+    b. Operdores lógicos: &&, ||, !
 
-a. for:
+a. Bucles for: un bucle es la forma en la que se ejecuta la mayoría de los softwares, evaluando 
+expresiones repetidamente y arrojando resultados, hasta cierto tiempo. EL "for" es un tipo de
+bucle. La sintaxis del bucle "for" se compone de una variable, una expresión condicional y un
+incremento de la variable.
 
-b. &&, ||, !: 
+b. Operadores lógicos
+    
+    &&: el operador "AND" nos permite evaluar dos expresiones y devolverá TRUE en caso de que
+    ambas sean verdaderas. Si sólo una lo es o ninguna lo es, devolverá FALSE, y el código no
+    se ejecutará.
+    
+    ||: el operador "OR" nos permite evaluar dos expresiones y devolverá TRUE en caso de que al
+    menos una de las dos sea verdadera. Si ambas expresiones son FALSE, devolverá FALSE, y el
+    código no se ejecutará.
+    
+    !: el operador "NOT" devolverá el valor booleano opuesto del que se le pasa.
